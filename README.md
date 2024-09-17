@@ -1,5 +1,11 @@
 # hDC Host
 
+## Visualização
+
+Você pode visualizar o projeto online através do seguinte link:
+
+[Visualizar Projeto](https://host-7w3gf7h8f-ismaels-projects-d235f4fa.vercel.app/)
+
 **hDC Host** é um site de exemplo para uma empresa de hospedagem de sites. Este projeto demonstra um layout moderno e responsivo com seções para serviços, preços, busca de domínio e contato. O design é otimizado para diferentes dispositivos, incluindo desktops, tablets e celulares.
 
 ## Índice
